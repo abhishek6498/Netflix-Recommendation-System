@@ -10,7 +10,7 @@ The dataset consists of user ratings for movies, extracted from the Netflix Priz
 - `combined_data_1.txt`: Contains user IDs and ratings for various movies (⚠️ ~472 MB).
 - `movie_titles.csv`: Contains movie metadata (Movie ID, Year, Title).
 
-> Note: Due to file size limits, `combined_data_1.txt` is not hosted on GitHub. You can download it [from here]([https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data](https://drive.google.com/file/d/1--JGb9rLK2VpC60spIjwF6aJoAhieCUV/view?usp=sharing, https://drive.google.com/file/d/1agNJSJDrNg83rEeM5mxjakDqKeTk0kpV/view?usp=sharing)) and place it in the project folder.
+> Note: Due to file size limits, `combined_data_1.txt` is not hosted on GitHub. You can download it [from here](https://drive.google.com/file/d/1--JGb9rLK2VpC60spIjwF6aJoAhieCUV/view?usp=sharing, https://drive.google.com/file/d/1agNJSJDrNg83rEeM5mxjakDqKeTk0kpV/view?usp=sharing)) and place it in the project folder.
 
 ---
 
